@@ -1,0 +1,16 @@
+[project]
+name = "manuscript-pores-2025"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "datahugger>=0.13",
+    "matplotlib>=3.10.3",
+    "numpy>=2.3.1",
+    "pandas>=2.3.0",
+    "pygaps>=4.6.1",
+    "pytga>=0.1.1",
+    "spectrochempy-omnic>=0.2.1",
+    "xarray>=2025.6.1",
+]
