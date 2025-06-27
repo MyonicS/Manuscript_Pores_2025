@@ -1,5 +1,5 @@
 # Description
-This repository hosts the companion jupyter notebook for the publication *The Effect of Impurities in Post-Consumer Plastic Waste on the Cracking of Polyolefins with Zeolite-based Catalysts* (https://doi.org/To-be-added)
+This repository hosts the companion jupyter notebook for the publication *The Effect of Impurities in Post-Consumer Plastic Waste on the Cracking of Polyolefins with Zeolite-based Catalysts* (https://doi.org/10.26434/chemrxiv-2025-hw10r)
 It provides an executable version of the manuscript generating all figures and analyses from raw experimental data.
 The raw data is hosted on the Open Science Foundation repository under DOI: https://doi.org/10.17605/OSF.IO/5WTZY
 
@@ -33,8 +33,7 @@ The notebook is optimized to run in Google Colab. When running the notebook loca
 # Citing
 
 When utilizing code or data from this study in an academic publication please cite the following manuscript:
-> Rejman, S., Meijer, T., van de Minkelis, J.H., Seyed Khabbaz, H., Gooneie, A., Duijndam, A.J.A., Vollmer, I., Weckhuysen, B.M. On the Influence of Catalyst Pore Structure in the Catalytic Cracking of Polypropylene. _ChemRxiv_ (2025). https://doi.org/To-be-added
-
+> Rejman, S., Meijer, T., van de Minkelis, J.H., Seyed Khabbaz, H., Gooneie, A., Duijndam, A.J.A., Vollmer, I., Weckhuysen, B.M. On the Influence of Catalyst Pore Structure in the Catalytic Cracking of Polypropylene. _ChemRxiv_ (2025). https://doi.org/10.26434/chemrxiv-2025-hw10r 
 Alternatively, the data itself can be cited as:
 > Rejman, S. et al. Experimental data supporting: ‘On the Influence of Catalyst Pore Structure in the Catalytic Cracking of Polypropylene’. OSF http://dx.doi.org/10.17605/OSF.IO/5WTZY (2025)
 
